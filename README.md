@@ -2,6 +2,7 @@
 # 2조/ 팀원
  이종승 이주연 김바램
  
+
 ## 주제 및 목표
 * 주제
   * 머신러닝을 이용한 2022년 KBO(Korea Baseball Organization) 리그 우승팀 예측
